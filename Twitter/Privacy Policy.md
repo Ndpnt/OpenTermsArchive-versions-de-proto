@@ -32,8 +32,6 @@ Zusätzlich zu den Informationen, die Sie mit uns teilen, nutzen wir Ihre Tweets
 
 Falls Sie Fragen zu dieser Richtlinie haben oder darüber, wie wir Ihre personenbezogenen Daten sammeln oder verarbeiten, oder sonst etwas mit Bezug auf unsere Datenschutzpraktiken, dann möchten wir gerne, dass Sie uns dies mitteilen. Sie können uns jederzeit [kontaktieren](https://help.twitter.com/forms/privacy).
 
-1
-
 Informationen, die Sie mit uns teilen
 -------------------------------------
 
@@ -193,8 +191,6 @@ Ihre Einstellungen
 Sie haben Möglichkeiten, wenn es darum geht, welche Informationen Sie auf Twitter teilen und sehen.
 
 ![Phone screen image](https://cdn.cms-twdigitalassets.com/content/dam/legal-twitter/site-assets/privacy-page-gdpr/pngs/2-10_German_FPO.png)
-
-2
 
 Zusätzliche Informationen, die wir über Sie erhalten
 ----------------------------------------------------
@@ -450,8 +446,6 @@ Your settings
 
 You have options when it comes to what information you share and see on Twitter.  
 
-3
-
 Informationen, die wir teilen und offenlegen
 --------------------------------------------
 
@@ -529,8 +523,6 @@ Nicht-personenbezogene Informationen
 
 Wir teilen nicht-personenbezogene Daten, wie aggregierte Informationen, oder legen diese offen. Dazu zählt unter anderem, wie häufig Personen auf einen bestimmten Tweet reagiert haben, demografische Merkmale, die Anzahl der Personen, die einen bestimmten Link angeklickt haben oder die im Rahmen einer Umfrage in einem Tweet abgestimmt haben (auch wenn dies nur eine Person getan hat), die Themen, über die Personen an einem bestimmten Standort tweeten, einige abgeleitete Interessen, oder Berichte für Werbekunden darüber, wie viele Personen ihre Anzeigen gesehen oder angeklickt haben.
 
-4
-
 Verwaltung Ihrer personenbezogenen Informationen bei uns
 --------------------------------------------------------
 
@@ -601,14 +593,10 @@ Dublin 2, D02 AX07 IRLAND
 
 [Hier](https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp) können Sie Twitters Datenschutzbeauftragten vertraulich kontaktieren. Wenn Sie [Bedenken über unsere Nutzung Ihrer Daten](https://help.twitter.com/de/rules-and-policies/data-processing-legal-bases) äußern möchten (und unbeschadet anderer Rechte, die Sie möglicherweise besitzen), haben Sie das Recht, dies bei Ihrer örtlichen Aufsichtsbehörde oder bei der federführenden Aufsichtsbehörde von Twitter International Company, der Irish Data Protection Commissioner, zu tun. [Hier](https://www.dataprotection.ie/docs/Contact-us/b/11.htm) finden Sie deren Kontaktdaten.
 
-5
-
 Kinder und unsere Dienste
 -------------------------
 
 Unsere Dienste wenden sich nicht an Kinder und Sie dürfen unsere Dienste nicht benutzen, wenn Sie nicht mindestens 13 Jahre alt sind. Sie müssen ebenfalls alt genug sein, um in Ihrem Land der Verarbeitung Ihrer personenbezogenen Daten zustimmen zu können (in manchen Ländern können wir es Ihren Eltern oder Ihrem Vormund gestatten, dies in Ihrem Namen zu tun). Sie müssen mindestens 16 Jahre alt sein, um Periscope zu nutzen.
-
-6
 
 Unsere weltweiten Operationen und der Datenschutzschild
 -------------------------------------------------------
@@ -622,8 +610,6 @@ Twitter, Inc. hält die Grundsätze des EU-US-Datenschutzschildes und des Schwei
 Wenn Sie eine Beschwerde bezüglich des Datenschutzschildes vorbringen möchten, nehmen Sie bitte [hier](https://help.twitter.com/forms/privacy) Kontakt zu uns auf. Als Bestandteil unserer Teilnahme an der Regelung des Datenschutzschildes werden wir versuchen, wenn ein Konflikt zwischen Ihnen und uns in Bezug auf die Einhaltung der Datenschutzgrundsätze auftritt, diese Streitigkeit über unser internes Verfahren zur Beilegung von Beschwerden zu klären. Alternativ kann eine solche Streitigkeit auch über das unabhängige Gremium zur Streitbeilegung [JAMS](https://www.jamsadr.com/eu-us-privacy-shield) und unter bestimmten Bedingungen über das [Datenschutzschild-Schlichtungsverfahren beigelegt werden](https://www.privacyshield.gov/article?id=G-Arbitration-Procedures).
 
 Die Teilnehmer am Datenschutzschild unterliegen den Untersuchungs- und Vollstreckungsbefugnissen, der US Federal Trade Commission und anderen gesetzlich ermächtigten Stellen. Unter gewissen Umständen können Teilnehmer für den Transfer von personenbezogenen Daten aus der EU, den EFTA-Staaten oder Vereinigten Königreich an Dritte außerhalb der EU, der EFTA-Staaten und des Vereinigten Königreich haftbar gemacht werden.  [Hier](https://www.privacyshield.gov/welcome) finden Sie weitere Informationen über den Datenschutzschild zwischen der EU und den USA und den Datenschutzschild zwischen der Schweiz und den USA.
-
-7
 
 Änderung an dieser Datenschutzrichtlinie
 ----------------------------------------
